@@ -50,7 +50,7 @@ When you type this command, npm will install on your machine whatever packages y
 
 If you open now the package.json file, you’ll see that all these packages have been added to dependencies.
 
-## Configure Babel
+## Configuring Babel
 
 In order for Babel to actually do its work, we need to do one more step, and that’s creating a configuration file.
 In the root folder of your project, create a file called `.babelrc`, and add the following code:
