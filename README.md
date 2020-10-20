@@ -1,4 +1,4 @@
-# # How to set up a JS dev environment
+# How to set up a JS dev environment
 
 As a self-taught front end developer with no CS or IT background, I had a hard time understanding why professional developers need so much extra stuff for their work.
 My project folders included three files: index.html, styles.css and scripts.js, with some extra files in case of multi-page websites.
