@@ -91,6 +91,8 @@ For example, for automating the production build and the pre-production linting,
 
 We’ll discuss these more in detail in the coming lessons!
 
+___
 
+You can download this chapter here: [Chapter 3](https://github.com/andreeamaco/js-boilerplate-tutorial/blob/main/chapter3-transpiling/Chapter%203%20Transpiling%20your%20code.pdf)
 
 
