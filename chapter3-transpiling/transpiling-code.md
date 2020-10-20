@@ -1,4 +1,6 @@
-# What does it mean to transpile your code?
+# Chapter 3: Transpiling your code
+
+## What does it mean to transpile your code?
 
 Transpiling means “translating” code that’s written in one language (or a version of it) to the equivalent code written in another language (or a different version).
 For example, code that’s written in ES6, JSX or in TypeScript can be transpiled to ES5, which is understood and supported by all browsers.
@@ -29,7 +31,7 @@ Adding a transpiler to your project offers a couple of advantages:
 
 Now let’s go ahead and install Babel!
 
-# Install Babel for JS transpiling 
+## Installing Babel for JS transpiling 
 
 If we wouldn’t have npm installed, we would have to manually go to Babel’s website, download the tool, install and configure it. However, with npm, you can just type in the terminal:
 
